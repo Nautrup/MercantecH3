@@ -34,7 +34,7 @@ namespace CykelOpgave
         {
             Console.Write("Hvilket mærke søger du : ");
             string input = Console.ReadLine();
-            List<Bike> bikes = JonasCykler.SearchBikeBrand(input);
+            List<Bike> bikes = JonasCykler.SearchForBrand(input);
             foreach (var bikeFound in bikes)
             {
                 Console.WriteLine($"{bikeFound.GetDescription()}");

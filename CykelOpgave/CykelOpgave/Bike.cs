@@ -22,12 +22,12 @@ namespace CykelOpgave
             numOfbikes += 1;
         }
 
-        public string GetDescription()
+        public string GetDescription() // Reetunere en beskrivelse på en cykel
         {
             return $"Mærke: {brand} Dæk: {wheelSize} Farve: {color} Med El-motor: {withMotor}";
         }
 
-        public int GetTotalAmountOfBikes()
+        public int GetTotalAmountOfBikes() // Retunere antallet af alle cykler
         {
             return numOfbikes;
         }

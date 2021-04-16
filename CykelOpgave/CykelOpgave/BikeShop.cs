@@ -13,22 +13,22 @@ namespace CykelOpgave
             bikeList = new List<Bike>();
         }
 
-        public void AddBike(Bike bike)
+        public void AddBike(Bike bike) // Tilføjer cykel til en butik
         {
             bikeList.Add(bike);
         }
 
-        public void DeleteBike(int index)
+        public void DeleteBike(int index) // Fjerner en cykel fra en butik
         {
             bikeList.RemoveAt(index);
         }
 
-        public void UpdateBike(int index, string newBrand)
+        public void UpdateBike(int index, string newBrand) // Opdater værdi for en cykel (Dette tilfølde kun mærket)
         {
             bikeList[index].brand = newBrand;
         }
 
-        public List<string> GetAllBrands()
+        public List<string> GetAllBrands() // Henter alle de forskellige mærker vi har i en List
         {
             List<string> brands = new List<string>();
             
@@ -42,7 +42,7 @@ namespace CykelOpgave
             return brands;
         }
 
-        public List<Bike> SearchBikeBrand(string brand)
+        public List<Bike> SearchForBrand(string brand) // Retunere liste med alle cykler med et specifikt mærke.
         {
             List<Bike> brandList = new List<Bike>();
 
@@ -65,12 +65,12 @@ namespace CykelOpgave
             return brandList;
         }
 
-        public string ReturnBikeBrand(int index)
+        public string ReturnBikeBrand(int index) // Henter en cykel med et specifik mærke i listen
         {
             return bikeList[index].brand;
         }
 
-        public string ReturnBikeDescription(int index)
+        public string ReturnBikeDescription(int index) // retunere en beskrivelse af en cykel i listen.
         {
             return bikeList[index].GetDescription();
         }

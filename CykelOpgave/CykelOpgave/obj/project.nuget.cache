@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gJ+9zthu5X+x5HGH1M/TIpHFeiVMkXIRkDsRbSqAq/BHx3q5Wp9MG8X2yTMgFtyDimO62MKURvjV+KTYH6v89Q==",
+  "dgSpecHash": "i9TESeMetFy3PQ+Rxb7sO930/ueIQ19fy+M0he8GmbQNAzcPeey3FTmBeg2e+bkbEQypLYvhizIQtYAMdgTJNQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jrj\\OneDrive - Thise Mejeri\\Skrivebord\\Skole\\H3\\C#\\CykelOpgave\\CykelOpgave\\CykelOpgave.csproj",
+  "projectFilePath": "C:\\Users\\jrj\\OneDrive - Thise Mejeri\\Skrivebord\\Skole\\H3\\MercantecH3\\CykelOpgave\\CykelOpgave\\CykelOpgave.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrj\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\jrj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",

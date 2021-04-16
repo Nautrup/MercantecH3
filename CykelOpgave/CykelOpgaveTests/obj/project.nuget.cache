@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NtiXc4ALA5Va+iXhSsfImYuIaWVP6AK69iDhbXRYI3rUcOBBfWw+CWqPaCCmHZaztINEqxsXAAC/QySatfTRww==",
+  "dgSpecHash": "yjodUuZJtgZiTiLk/cU86RzB0ilo8sEXm50HJVULsXuuFyND5SBmTSmAylOZMMiG/buKA/DHKSd21+ynEm9WOg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jrj\\OneDrive - Thise Mejeri\\Skrivebord\\Skole\\H3\\C#\\CykelOpgave\\CykelOpgaveTests\\CykelOpgaveTests.csproj",
+  "projectFilePath": "C:\\Users\\jrj\\OneDrive - Thise Mejeri\\Skrivebord\\Skole\\H3\\MercantecH3\\CykelOpgave\\CykelOpgaveTests\\CykelOpgaveTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jrj\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\jrj\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
